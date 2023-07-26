@@ -1,0 +1,10 @@
+* climon
+
+A Simon game written in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/nlamirault/climon.git   |
+| commit  | 4f8e435  |
+| systems | climon |
+|---------+-------------------------------------------|
+
